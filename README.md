@@ -8,3 +8,4 @@ Eggjs
 - [3、Eggjs笔记：路由get传值、动态路由、静态资源访问、ejs模板引擎、数据模型Service、方法扩展](./contents/3.md)
 - [4、Eggjs笔记：中间件配置、Post数据处理、安全机制CSRF防范、中间件模板全局变量配置](./contents/4.md)
 - [5、Eggjs笔记：cookie和session](./contents/5.md)
+- [6、Eggjs笔记：路由中的中间件，默认中间件，配置koa中间件，中间件的通用配置](./contents/6.md)
