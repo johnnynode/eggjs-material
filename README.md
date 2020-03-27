@@ -14,3 +14,4 @@ Eggjs
 - [9、Eggjs笔记：关于定时任务](./contents/9.md)
 - [10、Eggjs笔记：mongodb的使用](./contents/10.md)
 - [11、Eggjs笔记：egg-mongo-native对mongodb的操作](./contents/11.md)
+- [12、Eggjs笔记：关系型数据库表之间的关系](./contents/12.md)
