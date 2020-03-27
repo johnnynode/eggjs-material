@@ -12,3 +12,4 @@ Eggjs
 - [7、Eggjs笔记：路由添加多个中间件支持，路由别名，路由重定向，路由分组](./contents/7.md)
 - [8、Eggjs笔记：控制器基类的封装和控制器兼容写法](./contents/8.md)
 - [9、Eggjs笔记：关于定时任务](./contents/9.md)
+- [10、Eggjs笔记：Mongodb的使用](./contents/10.md)
