@@ -16,4 +16,5 @@ Eggjs
 - [11、Eggjs笔记：egg-mongo-native对mongodb的操作](./contents/11.md)
 - [12、Eggjs笔记：关系型数据库表之间的关系](./contents/12.md)
 - [13、Eggjs笔记：详解MongoDB聚合管道](./contents/13.md)
-- [14、Eggjs笔记：通过egg-mongo-native操作mongodb](./contents/14.md)
+- [14、Eggjs笔记：Mongoose的CRUD，默认参数，模块化](./contents/14.md)
+- [15、Eggjs笔记：Mongoose预定义模式修饰符Getters与Setters自定义修饰符](./contents/15.md)
