@@ -18,3 +18,4 @@ Eggjs
 - [13、Eggjs笔记：详解MongoDB聚合管道](./contents/13.md)
 - [14、Eggjs笔记：Mongoose的CRUD，默认参数，模块化](./contents/14.md)
 - [15、Eggjs笔记：Mongoose预定义模式修饰符Getters与Setters自定义修饰符](./contents/15.md)
+- [16、Eggjs笔记：MongoDB索引和explain的使用以及Mongoose 索引、Mongoose内置CURD方法、扩展Mongoose Model的静态方法和实例方法](./contents/16.md)
