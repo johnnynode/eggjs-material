@@ -22,3 +22,4 @@ Eggjs
 - [17、Eggjs笔记：Mongoose的数据校验](./contents/17.md)
 - [18、Eggjs笔记：详解Mongoose的聚合管道以及populate实现关联查询](./contents/18.md)
 - [19、Eggjs笔记：egg-mongoose插件的集成，crud操作, 多表关联查询](./contents/19.md)
+- [20、Eggjs笔记：egg-mysql插件的集成, crud操作, 事务演示](./contents/20.md)
