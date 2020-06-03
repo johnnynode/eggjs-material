@@ -25,3 +25,4 @@ Eggjs
 - [20、Eggjs笔记：egg-mysql插件的集成, crud操作, 事务演示](./contents/20.md)
 - [21、Eggjs笔记：接入支付宝支付相关流程与演示](./contents/21.md)
 - [22、Eggjs笔记：接入微信支付相关流程与演示](./contents/22.md)
+- [23、Eggjs笔记：用户注册之短信相关功能](./contents/23.md)
