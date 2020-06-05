@@ -28,3 +28,5 @@ Eggjs
 - [23、Eggjs笔记：用户注册之短信相关功能](./contents/23.md)
 - [24、Eggjs笔记：ElasticSearch全文搜索引擎之安装, 配置中文分词插件, 以及CRUD操作](./contents/24.md)
 - [25、Eggjs笔记：Eggjs集成ElasticSearch及CRUD操作](./contents/25.md)
+- [26、Eggjs笔记：RESTful API的设计](./contents/26.md)
+- [27、Eggjs笔记：解决API接口跨域请求时cookie和session失效的问题](./contents/27.md)
