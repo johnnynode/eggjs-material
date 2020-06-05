@@ -27,3 +27,4 @@ Eggjs
 - [22、Eggjs笔记：接入微信支付相关流程与演示](./contents/22.md)
 - [23、Eggjs笔记：用户注册之短信相关功能](./contents/23.md)
 - [24、Eggjs笔记：ElasticSearch全文搜索引擎之安装, 配置中文分词插件, 以及CRUD操作](./contents/24.md)
+- [25、Eggjs笔记：Eggjs集成ElasticSearch及CRUD操作](./contents/25.md)
