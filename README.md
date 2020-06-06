@@ -31,3 +31,4 @@ Eggjs
 - [26、Eggjs笔记：RESTful API的设计](./contents/26.md)
 - [27、Eggjs笔记：解决API接口跨域请求时cookie和session失效的问题](./contents/27.md)
 - [28、Eggjs笔记：关于JWT的接口权限验证](./contents/28.md)
+- [29、Eggjs笔记：集成sequelize orm](./contents/29.md)
